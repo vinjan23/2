@@ -48,7 +48,7 @@ export const Testnet = () => {
                     <div className="skill-bx wow zoomIn">
                             
                         <h2 class="archive-container"> Testnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
-                        <p>here's my history running as a node validator on various testnets below! </p>                        
+                        <p>My validator on various testnets  </p>                        
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
@@ -81,6 +81,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Archway" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/archway-testnet/staking/archwayvaloper1lg68f0x669kd4ga50mtc320lkp53ddkzzp4tvs" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a> 
   </div>
 </div>
 
@@ -95,6 +98,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Blockxd" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/blockx/staking/blockxvaloper186zgnljr70pjru6unkstp9n4y099zqyzz43u3y" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a> 
   </div>
 </div>
 
@@ -109,6 +115,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Bonusblock" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/bonusblock/staking/bonusvaloper12maezlndx2zh4turertywjgm47xx7erhm2nmtm" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a> 
   </div>
 </div>
 
@@ -123,6 +132,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Cascadia" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/cascadia-testnet/staking/cascadiavaloper1zccclw862uthjqcvem0hlh6fp9nvwjgeh5e6wa" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a>
   </div>
 </div>
 
@@ -137,6 +149,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Composable" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/composable-testnet/staking/banksyvaloper172gvyhdgy3wuh2rrkcm9g0u0qvrl8t5fww29dm" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a>
   </div>
 </div>
 
@@ -151,6 +166,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Elys" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/elystestnet-1/staking/elysvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zzhvmf30" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a>
   </div>
 </div>
 
@@ -165,6 +183,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Ojo" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/ojo/staking/ojovaloper1yh4gytj3ktj2x444ndgdngquxt9lpnz3un89pz" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a>
   </div>
 </div>
 
@@ -179,6 +200,9 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/SGE" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/sge/staking/sgevaloper1zr60al8za2hxhejgdz034hdmsy9ee6elzpw6fe" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a>
   </div>
 </div>
 
