@@ -46,7 +46,7 @@ export const Mainnet = () => {
                         
 <div className="item">
   <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-   <h3 style={{marginBottom: '10px'}}>8 Ball</h3>
+   <h3 style={{marginBottom: '10px'}}>8Ball</h3>
    <a href="https://explorer.vinjan.xyz/8ball-mainnet/staking/8ballvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zz3zmn8h" target="_blank">
      <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
         <img src={8ball} alt="Image" style={{width: '100%', height: '100%'}} />
