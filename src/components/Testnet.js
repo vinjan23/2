@@ -1,8 +1,16 @@
 import React from 'react';
 
 
+import althea from "../assets/img/althea.png";
+import archway from "../assets/img/archway.png";
+import blockx from "../assets/img/blockx.png";
+import bonusblock from "../assets/img/bonusblock.png";
 import c4e from "../assets/img/c4e.png";
-
+import cascadia from "../assets/img/cascadia.png";
+import composable from "../assets/img/composable.png";
+import elys from "../assets/img/elys.png";
+import ojo from "../assets/img/ojo.png";
+import sge from "../assets/img/sge.png";
 
 import source from "../assets/img/source.png";
 
@@ -39,7 +47,7 @@ export const Testnet = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                             
-                        <h2 class="archive-container"> Mainnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
+                        <h2 class="archive-container"> Testnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
                         <p>here's my history running as a node validator on various testnets below! </p>                        
                         <br></br>
                         <br></br>
