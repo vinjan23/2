@@ -14,7 +14,7 @@ function App() {
       <NavBar />
       <Banner />
       <Testnet />
-      <Mainnet/>
+      <Mainnet />
       {/* <Projects /> */}
      
       <Footer />
