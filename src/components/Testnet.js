@@ -64,8 +64,11 @@ export const Testnet = () => {
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Althea" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+   <a href="https://explorer.vinjan.xyz/althea-testnet/staking/altheavaloper1dxrrcxyr5vc2mr9q8j9f2l670kkp736dsrkmna" target="_blank">
+   <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+  </a> 
   </div>
-</div>
+ </div>
 
 <div className="item">
   <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
