@@ -39,7 +39,7 @@ export const Testnet = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                             
-                        <h2 class="archive-container"> Testnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
+                        <h2 class="archive-container"> Mainnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
                         <p>here's my history running as a node validator on various testnets below! </p>                        
                         <br></br>
                         <br></br>
