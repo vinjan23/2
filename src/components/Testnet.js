@@ -55,13 +55,41 @@ export const Testnet = () => {
                         
 <div className="item">
   <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-   <h3 style={{marginBottom: '10px'}}>Chain 4 Energy</h3>
-   <a href="#" target="_blank">
+   <h3 style={{marginBottom: '10px'}}>althea</h3>
+   <a href="https://explorer.vinjan.xyz/althea-testnet/staking/altheavaloper1dxrrcxyr5vc2mr9q8j9f2l670kkp736dsrkmna" target="_blank">
      <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
-        <img src={c4e} alt="Image" style={{width: '100%', height: '100%'}} />
+        <img src={althea} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
-   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/C4E" target="_blank">
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Althea" target="_blank">
+      <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+  </div>
+</div>
+
+<div className="item">
+  <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+   <h3 style={{marginBottom: '10px'}}>archway</h3>
+   <a href="https://explorer.vinjan.xyz/archway-testnet/staking/archwayvaloper1lg68f0x669kd4ga50mtc320lkp53ddkzzp4tvs" target="_blank">
+     <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
+        <img src={archway} alt="Image" style={{width: '100%', height: '100%'}} />
+      </div>
+       </a>
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Archway" target="_blank">
+      <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+  </div>
+</div>
+
+<div className="item">
+  <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+   <h3 style={{marginBottom: '10px'}}>blockx</h3>
+   <a href="https://explorer.vinjan.xyz/blockx/staking/blockxvaloper186zgnljr70pjru6unkstp9n4y099zqyzz43u3y" target="_blank">
+     <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
+        <img src={blockx} alt="Image" style={{width: '100%', height: '100%'}} />
+      </div>
+       </a>
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Blockxd" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
   </div>
