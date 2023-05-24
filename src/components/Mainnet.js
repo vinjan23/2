@@ -49,7 +49,7 @@ export const Mainnet = () => {
    <h3 style={{marginBottom: '10px'}}>8 Ball</h3>
    <a href="https://explorer.vinjan.xyz/8ball-mainnet/staking/8ballvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zz3zmn8h" target="_blank">
      <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
-        <img src={c4e} alt="Image" style={{width: '100%', height: '100%'}} />
+        <img src={8ball} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
    <a href="https://github.com/vinjan23/Mainnet/tree/main/8ball" target="_blank">
