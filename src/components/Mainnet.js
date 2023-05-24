@@ -1,22 +1,6 @@
 import React from 'react';
 
 
-import goracle from "../assets/img/goracle.png";
-import muon from "../assets/img/muon.png";
-import shardeum from "../assets/img/shardeum.png";
-import nibiru from "../assets/img/nibiru.png";
-import sao from "../assets/img/blockx-picsay.png";
-import wormholes from "../assets/wormholess.png";
-import goa from "../assets/img/terra.png";
-import arkhadian from "../assets/img/Arkhadiann.png";
-import ojo from "../assets/img/ojo.png";
-import bonusblock from "../assets/img/bonusblock.png";
-import sge from "../assets/img/sge.png";
-import elys from "../assets/img/elys.jpg";
-import terp from "../assets/img/terp.jpg";
-import cascadia from "../assets/img/cascadia.png";
-import elixir from "../assets/img/elixir.png";
-import impact from "../assets/img/impact.png";
 import c4e from "../assets/img/c4e.png";
 
 
@@ -69,7 +53,7 @@ export const Testnet = () => {
         <img src={c4e} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
-   <a href="https://explorer.sychonix.me/elys/staking/elysvaloper1fwa706sz0yryfr3efsj5k97rwt5swjxflrn4eq" target="_blank">
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/C4E" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
   </div>
