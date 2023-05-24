@@ -11,7 +11,7 @@ import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-export const Testnet = () => {
+export const Mainnet = () => {
   const responsive = {
     superLargeDesktop: {
       // the naming can be any, depends on you.
@@ -40,7 +40,7 @@ export const Testnet = () => {
                     <div className="skill-bx wow zoomIn">
                             
                         <h2 class="archive-container"> Mainnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
-                        <p>here's my history running as a node validator on various testnets below! </p>                        
+                        <p>here's my history running as a node validator on various mainnet below! </p>                        
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
