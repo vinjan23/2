@@ -61,9 +61,9 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">{date}</span>
                 <h1>{`Hi! I'm Vinjan `} </h1>
-                  <h4>I'm an independent node runner for blockchain projects.</h4>
+                  <h4>🎉Proffesional Stake & Node Validator🎉</h4>
                   <br></br>
-                  <i><q>Independent means that it is run by blockchain geeks for blockchain and crypto enthusiasts just like you ❤️. No VCs or institutional support. We indeed care about keeping the stake decentralized.</q></i>
+                  <i><q>Stake & Earn Reward ❤️ Low Fees , Highly Secured , And 24/7 Monitored</q></i>
               </div>}
             </TrackVisibility>
           </Col>
