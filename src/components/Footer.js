@@ -31,7 +31,7 @@ export const Footer = () => {
                 <a href="https://twitter.com/nodex_capital" target="_blank"><img src={navIcon3} alt="Twitter" /></a>
                 <a href="https://youtube.com" target="_blank"><img src={navIcon4} alt="Youtube" /></a>
             </div>
-            <p>Made with ❤️ Whyme | NodeX Capital</p>
+            <p>Made with ❤️ Whyme | Vinjan</p>
           </Col>
         </Row>
       </Container>
