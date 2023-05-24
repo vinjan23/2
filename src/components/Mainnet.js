@@ -5,7 +5,6 @@ import arkhadian from "../assets/img/arkhadian.png";
 import eightball from "../assets/img/eightball.png";
 import decentr from "../assets/img/decentr.png";
 import gitopia from "../assets/img/gitopia.png";
-import eightball from "../assets/img/eightball.png";
 import realio from "../assets/img/realio.png";
 import planq from "../assets/img/planq.png";
 
