@@ -40,7 +40,7 @@ export const Mainnet = () => {
                     <div className="skill-bx wow zoomIn">
                             
                         <h2 class="archive-container"> Mainnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
-                        <p>here's my history running as a node validator on various mainnet below! </p>                        
+                        <p>This my validator on various mainnet below! </p>                        
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
@@ -67,7 +67,7 @@ export const Mainnet = () => {
         <img src={eightball} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
-   <a href="https://github.com/vinjan23/Mainnet/tree/main/Decentr" target="_blank">
+   <a href="https://github.com/vinjan23/Mainnet/tree/main/8ball" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
   </div>
