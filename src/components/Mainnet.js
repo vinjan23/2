@@ -2,11 +2,6 @@ import React from 'react';
 
 
 import 8ball from "../assets/img/8ball.png";
-import arkhadian from "../assets/img/arkhadian.png";
-import decentr from "../assets/img/decentr.png";
-import gitopia from "../assets/img/gitopia.png";
-import realio from "../assets/img/realio.png";
-import terp from "../assets/img/terp.png";
 
 import source from "../assets/img/source.png";
 
