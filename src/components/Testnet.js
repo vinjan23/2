@@ -1,22 +1,6 @@
 import React from 'react';
 
 
-import goracle from "../assets/img/goracle.png";
-import muon from "../assets/img/muon.png";
-import shardeum from "../assets/img/shardeum.png";
-import nibiru from "../assets/img/nibiru.png";
-import sao from "../assets/img/blockx-picsay.png";
-import wormholes from "../assets/wormholess.png";
-import goa from "../assets/img/terra.png";
-import arkhadian from "../assets/img/Arkhadiann.png";
-import ojo from "../assets/img/ojo.png";
-import bonusblock from "../assets/img/bonusblock.png";
-import sge from "../assets/img/sge.png";
-import elys from "../assets/img/elys.jpg";
-import terp from "../assets/img/terp.jpg";
-import cascadia from "../assets/img/cascadia.png";
-import elixir from "../assets/img/elixir.png";
-import impact from "../assets/img/impact.png";
 import c4e from "../assets/img/c4e.png";
 
 
