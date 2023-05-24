@@ -4,8 +4,6 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/twitter.svg';
 import navIcon2 from '../assets/img/github.svg';
-import navIcon3 from '../assets/img/discord.svg';
-import navIcon4 from '../assets/img/youtube.svg';
 import { HashLink } from 'react-router-hash-link';
 
 import headerImg from "../assets/img/header-img.svg";
@@ -56,10 +54,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://discordapp.com/users/928575843641479198" target="_blank"><img src={navIcon3} alt="Discord" /></a>
                 <a href="https://github.com/vinjan23/"target="_blank"><img src={navIcon2} alt="Github" /></a>
                 <a href="https://twitter.com/vjanwil" target="_blank"><img src={navIcon1} alt="Twitter" /></a>
-                <a href="https://youtube.com" target="_blank"><img src={navIcon4} alt="Youtube" /></a>
                 </div>
                 </span>
           </Navbar.Collapse>
