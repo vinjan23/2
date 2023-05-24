@@ -61,7 +61,7 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Planq" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
-    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/plqvaloper1csj5g5j4r682apvjckdk3qldkup4y0745djamf" target="_blank">
+    <a href="https://explorer.vinjan.xyz/planq-mainnet/staking/plqvaloper1csj5g5j4r682apvjckdk3qldkup4y0745djamf" target="_blank">
     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
@@ -78,7 +78,7 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Realio" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
-    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/realiovaloper1csj5g5j4r682apvjckdk3qldkup4y07472gtkh" target="_blank">
+    <a href="https://explorer.vinjan.xyz/realio-mainnet/staking/realiovaloper1csj5g5j4r682apvjckdk3qldkup4y07472gtkh" target="_blank">
     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
@@ -95,7 +95,7 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Decentr" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
-    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/decentrvaloper18yze7cvnep7d2yj3cs4zfpvd4juphxrw3djwsz" target="_blank">
+    <a href="https://explorer.vinjan.xyz/decentr-mainnet/staking/decentrvaloper18yze7cvnep7d2yj3cs4zfpvd4juphxrw3djwsz" target="_blank">
     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
@@ -112,7 +112,7 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Gitopia" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
-    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/gitopiavaloper1rca4acwwccvakhgzleyl4j6vry4z36ypcu682c" target="_blank">
+    <a href="https://explorer.vinjan.xyz/gitopia-mainnet/staking/gitopiavaloper1rca4acwwccvakhgzleyl4j6vry4z36ypcu682c" target="_blank">
     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
@@ -146,7 +146,7 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/8ball" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
-    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/8ballvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zz3zmn8h" target="_blank">
+    <a href="https://explorer.vinjan.xyz/8ball-mainnet/staking/8ballvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zz3zmn8h" target="_blank">
     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
