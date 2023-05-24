@@ -9,6 +9,7 @@ import cascadia from "../assets/img/cascadia.png";
 import composable from "../assets/img/composable.png";
 import elys from "../assets/img/elys.png";
 import ojo from "../assets/img/ojo.png";
+import sge from "../assets/img/sge.png";
 
 
 import source from "../assets/img/source.png";
@@ -159,6 +160,20 @@ export const Testnet = () => {
       </div>
        </a>
    <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/Ojo" target="_blank">
+      <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+  </div>
+</div>
+
+<div className="item">
+  <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+   <h3 style={{marginBottom: '10px'}}>sge</h3>
+   <a href="https://explorer.vinjan.xyz/sge/staking/sgevaloper1zr60al8za2hxhejgdz034hdmsy9ee6elzpw6fe" target="_blank">
+     <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
+        <img src={sge} alt="Image" style={{width: '100%', height: '100%'}} />
+      </div>
+       </a>
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/SGE" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
   </div>
