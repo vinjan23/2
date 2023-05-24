@@ -54,7 +54,6 @@ export const Mainnet = () => {
   <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
    <h3 style={{marginBottom: '10px'}}>arkhadian</h3>
    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/arkhvaloper1caclqqep2jprjn0evwyt3jkn6q3zxx4c80rzcj" target="_blank">
-     <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
      <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
         <img src={arkhadian} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
