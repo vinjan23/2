@@ -53,7 +53,7 @@ export const Testnet = () => {
         <img src={c4e} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
-   <a href="https://explorer.sychonix.me/elys/staking/elysvaloper1fwa706sz0yryfr3efsj5k97rwt5swjxflrn4eq" target="_blank">
+   <a href="https://github.com/vinjan23/Testnet.Guide/tree/main/C4E" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
   </div>
