@@ -7,6 +7,7 @@ import decentr from "../assets/img/decentr.png";
 import gitopia from "../assets/img/gitopia.png";
 import realio from "../assets/img/realio.png";
 import planq from "../assets/img/planq.png";
+import terp from "../assets/img/terp.png";
 
 import source from "../assets/img/source.png";
 
@@ -77,6 +78,9 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/8ball" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/8ballvaloper1jf02c7l9ezy30eflx0kgp54d0tpsj2zz3zmn8h" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+    </a>
   </div>
 </div>
 
@@ -90,6 +94,9 @@ export const Mainnet = () => {
        </a>
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Decentr" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/decentrvaloper18yze7cvnep7d2yj3cs4zfpvd4juphxrw3djwsz" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
 </div>
@@ -105,6 +112,9 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Gitopia" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/gitopiavaloper1rca4acwwccvakhgzleyl4j6vry4z36ypcu682c" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+    </a>
   </div>
 </div>
 
@@ -119,6 +129,9 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Realio" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/realiovaloper1csj5g5j4r682apvjckdk3qldkup4y07472gtkh" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+    </a>
   </div>
 </div>
 
@@ -132,6 +145,9 @@ export const Mainnet = () => {
        </a>
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Planq" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/plqvaloper1csj5g5j4r682apvjckdk3qldkup4y0745djamf" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
     </a>
   </div>
 </div>
