@@ -10,7 +10,7 @@ import cascadia from "../assets/img/cascadia.png";
 import composable from "../assets/img/composable.png";
 import elys from "../assets/img/elys.png";
 import ojo from "../assets/img/ojo.png";
-import sge from "../assets/img/sge.png";
+
 
 import source from "../assets/img/source.png";
 
