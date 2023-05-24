@@ -45,7 +45,7 @@ export const Mainnet = () => {
                     <div className="skill-bx wow zoomIn">
                             
                         <h2 class="archive-container"> Mainnet <span class="spinner-grow spinner-grow-sm text-success" role="status"></span></h2>
-                        <p>This my validator on various mainnet </p>                        
+                        <p>Stake with us and earn passive income every day </p>                        
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
