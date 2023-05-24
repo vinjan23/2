@@ -152,6 +152,23 @@ export const Mainnet = () => {
   </div>
 </div>
 
+<div className="item">
+  <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+   <h3 style={{marginBottom: '10px'}}>terp</h3>
+   <a href="https://explorer.vinjan.xyz/terp-mainnet/staking/terpvaloper1zj70sat2fevu68hstfl0le5e0c5efg5mjk823u" target="_blank">
+     <div style={{borderRadius: '50%', width: '150px', height: '150px', overflow: 'hidden'}}>
+        <img src={terp} alt="Image" style={{width: '100%', height: '100%'}} />
+      </div>
+       </a>
+   <a href="https://github.com/vinjan23/Mainnet/tree/main/Terp" target="_blank">
+      <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
+    </a>
+    <a href="https://explorer.vinjan.xyz/terp-mainnet/staking/terpvaloper1zj70sat2fevu68hstfl0le5e0c5efg5mjk823u" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+    </a>
+  </div>
+</div>
+
                       </Carousel>
                     </div>
                 </div>
