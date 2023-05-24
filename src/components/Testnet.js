@@ -4,7 +4,7 @@ import React from 'react';
 import althea from "../assets/img/althea.png";
 import archway from "../assets/img/archway.png";
 import blockx from "../assets/img/blockx.png";
-import bonusblock from "../assets/img/bonusblock.png";
+import bonus from "../assets/img/bonus.png";
 import c4e from "../assets/img/c4e.png";
 import cascadia from "../assets/img/cascadia.png";
 import composable from "../assets/img/composable.png";
