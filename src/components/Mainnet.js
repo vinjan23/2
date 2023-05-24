@@ -33,7 +33,7 @@ export const Testnet = () => {
   };
 
   return (
-    <section className="testnet" id="testnet">
+    <section className="Mainnet" id="Mainnet">
         <div className="container">
             <div className="row">
                 <div className="col-12">
