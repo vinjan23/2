@@ -60,6 +60,9 @@ export const Mainnet = () => {
    <a href="https://github.com/vinjan23/Mainnet/tree/main/Arkh" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
+    <a href="https://explorer.vinjan.xyz/arkhadian-mainnet/staking/arkhvaloper1caclqqep2jprjn0evwyt3jkn6q3zxx4c80rzcj" target="_blank">
+    <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>EXPLORER</h5>
+    </a>
   </div>
 </div>
 
