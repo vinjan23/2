@@ -6,7 +6,7 @@ import navIcon1 from '../assets/img/twitter.svg';
 import navIcon2 from '../assets/img/github.svg';
 import { HashLink } from 'react-router-hash-link';
 
-import headerImg from "../assets/img/header-img.svg";
+import headerImg from "../assets/img/logo.svg";
 import {
   BrowserRouter as Router
 } from "react-router-dom";
