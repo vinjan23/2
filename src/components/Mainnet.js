@@ -58,7 +58,7 @@ export const Mainnet = () => {
         <img src={planq} alt="Image" style={{width: '100%', height: '100%'}} />
       </div>
        </a>
-   <a href="https://nodes.vinjan.xyz/Mainnet/Planq" target="_blank">
+   <a href="https://github.com/vinjan23/Mainnet/tree/main/Planq" target="_blank">
       <h5 style={{margin: 0, fontSize: '20px', color: '#FFFFFF'}}>SERVICE</h5>
     </a>
     <a href="https://explorer.vinjan.xyz/planq-mainnet/staking/plqvaloper1csj5g5j4r682apvjckdk3qldkup4y0745djamf" target="_blank">
