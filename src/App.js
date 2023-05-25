@@ -6,6 +6,7 @@ import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";
 import { Mainnet } from "./components/Mainnet";
 import { Testnet } from "./components/Testnet";
+import { Banner1 } from "./components/Banner1";
 import { Footer } from "./components/Footer";
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
       <Mainnet />
       <Testnet />
       {/* <Projects /> */}
-     
+      
+      <Banner1 /> 
       <Footer />
     </div>
   );
